@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "language": "es",
+  "preset": "personal",
+  "domains": ["learning", "career", "projects", "ideas", "health", "finance"],
+  "git": {
+    "strategy": "commit-push"
+  },
+  "initialized_at": "2026-06-17",
+  "initialized_by": "init@agent"
+}

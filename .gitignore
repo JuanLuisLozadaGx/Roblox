@@ -10,3 +10,6 @@ desktop.ini
 # Caché y temporales
 *.tmp
 *.log
+
+# Configuración local de Claude Code (settings por máquina/usuario)
+.claude/

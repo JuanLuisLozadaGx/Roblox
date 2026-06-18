@@ -1,0 +1,12 @@
+# Estado de la interfaz de Obsidian (cambia constantemente, no aporta al repo)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Caché y temporales
+*.tmp
+*.log
